@@ -1,0 +1,3 @@
+pinn/__pycache__
+models/*.pt
+*.pyc
